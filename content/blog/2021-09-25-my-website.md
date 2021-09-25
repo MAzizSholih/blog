@@ -1,0 +1,68 @@
+---
+title: My Website
+date: 2021-09-25T12:52:29.599Z
+description: Website saya
+---
+```
+body{
+	background-image: url("images/Linkin_Park_logo.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+.container h1{
+	text-align: center;
+	padding-top: 12px;
+	font-family: cursive;
+}
+.LP{
+	display: block;
+	width: 470px;
+	height: 310px;
+	margin-left: auto;
+	margin-right: auto;
+	float: right;
+}
+```
+
+![](/img/linkin_park_logo.png)
+
+![](/img/linkinpark.jpg)
+
+```
+<DOCTYPE html>
+	<html>
+	<head>
+		<title>Web Saya</title>
+		<link href="style.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<header>
+			<div class="container">
+				<h1>LINKIN PARK</h1>
+				<hr width="50%">
+			</div>
+		</header>
+		<p>Linkin Park adalah grup musik rock yang berasal dari Agoura Hills, California, Amerika Serikat. Saat ini band ini digawangi Mike Shinoda selaku vokalis/multi-instrumentalis, Brad Delson sebagai gitaris, Dave Farrell sebagai bassis, Joe Hahn sebagai DJ/pemrogram, dan Rob Bourdon sebagai drummer, yang merupakan pendiri band tersebut. Mantan anggota band ini adalah Chester Bennington dan Mark Wakefield sebagai vokalis utama serta bassis Kyle Christner. Sebagai grup musik rock alternatif, Linkin Park telah bereksperimen dalam musiknya serta memasukkan genre heavy metal, hard rock, hip hop, pop, dan electronica.</p>
+		<p><img src="images/LinkinPark.jpg" class="LP">Berdiri sejak 1996, grup musik ini mencapai ketenaran internasionalnya dengan album studio debutnya, Hybrid Theory (2000), yang memperoleh sertifikasi Diamond oleh RIAA. Album kedua Meteora (2003), meneruskan kesukesan band ini, memuncaki Billboard 200, dan diikuti tur konser yang meluas serta konser amal. Setelah menempatkan nu metal dan rap metal yang makin ramah radio, band ini bereksperimen dengan genre lain di album ketiga mereka, Minutes to Midnight (2007), yang juga memuncaki Billboard 200. Berikut salah satu lagu dari grup band ini yaitu Point Of Authority dari album Hybrid Theory.</p>
+		<p><audio controls>
+			<source src="Point_Of_Authority_-_Linkin_Park.ogg" type="audio/ogg">
+			<source src="Point_Of_Authority_-_Linkin_Park.mp3" type="audio/ogg">
+			Your browser does not support the audio element.</p>
+			</audio>
+		</p>
+		<p>Linkin Park juga telah mengeksplorasi genre yang lebih luas melalui rilisnya album studio keempatnya, A Thousand Suns (2010), yang banyak memasukkan musik elektronik. Album kelimanya, Living Things (2012), menggabungkan seluruh elemen dari rekaman sebelumnya. Album keenam mereka, The Hunting Party (2014), kembali ke suara rock yang lebih keras, dan album ketujuh mereka, One More Light (2017), rekamannya kembali elektronik dan banyak mengusung unsur pop.</p>
+		<p>Linkin Park adalah salah satu band dengan penjualan terlaris pada abad ke-21 dan artis musik terlaris di dunia, setelah menjual lebih dari 70 juta keping album di seluruh dunia. Band ini memenangkan dua Grammy Awards, enam American Music Awards, empat MTV Video Music Awards dan tiga World Music Awards. Pada tahun 2003, MTV2 mencatat Linkin Park sebagai band terbesar keenam dalam video musik era itu dan terbaik ketiga sepanjang milenium baru. Billboard menobatkan Linkin Park pada posisi ke-19 pada daftar Artis Terbaik Dekade Ini. Pada 2012, band ini terpilih sebagai artis terbesar tahun 2000-an dalam jajak pendapat Bracket Madness di VH1. Pada tahun 2014, band ini dinyatakan sebagai "Band Rock Terbesar di Dunia Saat Ini" oleh Kerrang!.</p>
+		<p>Band ini vakum setelah Chester Bennington sang vokalis gantung diri pada bulan Juli 2017 tepat setelah perilisan music video baru yang berjudul Talking To Myself. Berikut cuplikan music video Talking To Myself dari album One More Light.</p>
+		<video widht="250" height="160" controls>
+			<source src="Talking_To_Myself_[Official_Music_Video]_-_Linkin_Park.mp4" type="video/mp4">
+			<source src="Talking_To_Myself_[Official_Music_Video]_-_Linkin_Park.ogg" type="video/mp4">
+			Your browser does not support HTML video.
+		</video>
+		<p>Video courtesy of YouTube
+			<a href="https://youtu.be/lvs68OKOquM" target="_blank">Talking To Myself - Linkin Park</a>.
+		</p>
+	</body>
+	</html>
+```
