@@ -3,7 +3,7 @@ title: Portofolio
 date: 2021-09-25T12:37:28.594Z
 description: Berikut contoh porofolio yang saya buat
 ---
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
